@@ -1,0 +1,31 @@
+* {
+    font-family: Verdana, Georgia;
+    font-size: 18px;
+}
+
+body {
+    background-color: aquamarine;
+    padding-left: 15px;
+    padding-top: 20px;
+}
+
+img {
+    margin: 20px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h3 {
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li{
+    margin-top: 5px;
+}
